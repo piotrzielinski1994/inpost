@@ -1,0 +1,12 @@
+# Platform
+.DS_Store
+
+# IDE
+.idea
+.vscode
+
+# Dependencies
+node_modules
+
+# Environment
+.env
