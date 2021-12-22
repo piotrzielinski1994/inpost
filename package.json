@@ -2,7 +2,7 @@
   "name": "inpost",
   "version": "1.0.0",
   "scripts": {
-    "start": "ts-node index.ts"
+    "start": "ts-node src/index.ts"
   },
   "keywords": [],
   "author": "Piotr Zieliński",
