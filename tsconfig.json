@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "Node",
+    "module": "CommonJS",
+    "outDir": "./dist"
+  },
+  "exclude": [
+    "./examples"
+  ]
+}
